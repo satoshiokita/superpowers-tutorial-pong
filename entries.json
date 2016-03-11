@@ -1,0 +1,117 @@
+[
+  {
+    "id": "14",
+    "name": "Menu",
+    "type": "scene"
+  },
+  {
+    "id": "15",
+    "name": "MenuSprites",
+    "type": null,
+    "children": [
+      {
+        "id": "16",
+        "name": "title",
+        "type": "sprite"
+      },
+      {
+        "id": "17",
+        "name": "starton",
+        "type": "sprite"
+      },
+      {
+        "id": "18",
+        "name": "startoff",
+        "type": "sprite"
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "name": "MenuScripts",
+    "type": null,
+    "children": [
+      {
+        "id": "20",
+        "name": "Button",
+        "type": "script"
+      }
+    ]
+  },
+  {
+    "id": "0",
+    "name": "Game",
+    "type": "scene"
+  },
+  {
+    "id": "1",
+    "name": "GameSprites",
+    "type": null,
+    "children": [
+      {
+        "id": "4",
+        "name": "background",
+        "type": "sprite"
+      },
+      {
+        "id": "5",
+        "name": "pad1",
+        "type": "sprite"
+      },
+      {
+        "id": "6",
+        "name": "pad2",
+        "type": "sprite"
+      },
+      {
+        "id": "7",
+        "name": "ball",
+        "type": "sprite"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "GameScripts",
+    "type": null,
+    "children": [
+      {
+        "id": "9",
+        "name": "Ball",
+        "type": "script"
+      },
+      {
+        "id": "10",
+        "name": "Paddles",
+        "type": "script"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "GameSounds",
+    "type": null,
+    "children": [
+      {
+        "id": "11",
+        "name": "tac",
+        "type": "sound"
+      },
+      {
+        "id": "12",
+        "name": "toc",
+        "type": "sound"
+      },
+      {
+        "id": "13",
+        "name": "tada",
+        "type": "sound"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Font",
+    "type": "font"
+  }
+]
